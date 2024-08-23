@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chirag Redij</h1>
 <h3 align="center">A Native Android developer with a unique twist</h3>
 
-- 🔭 I’m currently working on **CityLink - An app which aims to revolutionize bus commute**
+- 🔭 I’m currently working on upskilling myself and dwelling into the world of **IOS** using **KMP** and **SwiftUI**.
 
-- 🌱 I’m currently learning **Jetpack Compose which helps in creating a mobile frontend in a single language i.e. Kotlin and supports many different features.**
+- 🌱 I’m currently learning **Kotlin Multiplatform and Compose Multiplatform which helps in creating a multiplatform apps using a single language i.e. Kotlin and supports many different features.**
 
-- 🤝 I’m looking for help with **Android development using Kotlin**
+- 🤝 I’m looking for help with **Mobile development using Kotlin**
 
 - 💬 Ask me about **Kotlin, Java, Express.js**
 
