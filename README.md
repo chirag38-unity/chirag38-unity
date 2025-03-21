@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chirag.redij@gmail.com**
 
-- 📄 Know about my experiences [https://chirag-redij.cyclic.app/](https://chirag-redij.cyclic.app/)
+- 📄 Know about my experiences [portfolio](https://chiragredij.in/)
 
 - ⚡ Fun fact **I own an iPhone while being an Android Developer :)**
 
